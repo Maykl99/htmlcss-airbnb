@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.primo{
+    background-image: url('../img/m.jpg');
+}
+
+.secondo{
+    background-image: url('../img/m-2.jpg');
+}
+
+.terzo{
+    background-image: url('../img/m-3.jpg');
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nome{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    background-color: rgba(0,0,0,0.1);
+    padding: 8px;
+}
+
+.uno{
+    color: rgb(123, 187, 216);
+}
+.due{
+    color: rgb(128, 201, 86);
+}
+.tre{
+    color: rgb(211, 188, 128);
+}
