@@ -26,6 +26,9 @@
     background-image: url('../img/m-3.jpg');
 }
 
+.container:last-child{
+    margin-bottom: 0;
+}   
 .overlay{
     position: absolute;
     top: 0;
