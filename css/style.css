@@ -49,11 +49,7 @@ ul li:hover{
 
 .container:last-child{
     margin-bottom: 0;
-}   
-
-.container:last-child{
-    margin-bottom: 0;
-}   
+}    
 .overlay{
     position: absolute;
     top: 0;
