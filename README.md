@@ -1,1 +1,1 @@
-htmlcss-airbnb
+htmlcss-airbnb //-> Per realizzare questo lavoro ho utilizzato alcune mie illustrazioni, le immagini sono state formattate con programmi di grafica al fine di alleggerire il loro peso effettivo, sperando che non ci siano ritardi di caricamento. 
